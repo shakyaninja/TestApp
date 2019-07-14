@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".fragments.SecondFragment"
     android:background="@color/colorAccent"
-    android:visibility="gone"
     >
 
     <!-- TODO: Update blank fragment layout -->

@@ -10,13 +10,6 @@
         android:id="@+id/firstFragment"
         android:name="com.example.testapp.fragments.FirstFragment"
         android:layout_width="match_parent"
-        android:layout_height="350dp">
-
-    </fragment>
-    <fragment
-        android:id="@+id/secondFragment"
-        android:name="com.example.testapp.fragments.SecondFragment"
-        android:layout_width="match_parent"
-        android:layout_height="350dp">
+        android:layout_height="match_parent">
     </fragment>
 </LinearLayout>
